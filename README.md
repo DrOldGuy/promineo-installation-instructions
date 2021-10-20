@@ -1,2 +1,3 @@
-# installation-instructions
-Installation instructions for Promineo back-end classes
+# Promineo Installation Iinstructions
+
+Select the mac or windows folders and follow the installation instructions for Java, git, and Eclipse. Install the applications in the specified order. To view the instructions, click on a file. For example, to view the Java installation instructions for Windows, click "01-install-java-windows.md". Use the browser back button to get back to the parent directory.
