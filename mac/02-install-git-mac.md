@@ -4,7 +4,7 @@
 Check to see if git is installed. Type:
 
 ```
-git –version
+git --version
 ```
 
 If you get a version number back, skip to the Setup section.

@@ -11,7 +11,7 @@ If the Java version is shown, and if it is version 11 or greater, you are all se
 
 ## Download
 
-* Download the Mac .pkg file from [here](https://corretto.aws/downloads/latest/amazon-corretto-11-x64-macos-jdk.pkg).
+* Download the Mac .pkg file from [here](https://corretto.aws/downloads/latest/amazon-corretto-17-x64-macos-jdk.pkg).
 
 ## Install
 
@@ -19,5 +19,5 @@ If the Java version is shown, and if it is version 11 or greater, you are all se
 * Run the following command in the Terminal to set the JAVA_HOME environment variable.
 
 ```
-export JAVA_HOME=/Library/Java/JavaVirtualMachines/amazon-corretto-11.jdk/Contents/Home
+export JAVA_HOME=/Library/Java/JavaVirtualMachines/amazon-corretto-17.jdk/Contents/Home
 ```

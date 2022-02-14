@@ -12,7 +12,7 @@ If you get a version back and if the version is 11 or greater, you can skip this
 
 ## Install Java
 
-* In a browser, navigate to [here](https://corretto.aws/downloads/latest/amazon-corretto-11-x64-windows-jdk.msi). Select "Save File".
+* In a browser, navigate to [here](https://corretto.aws/downloads/latest/amazon-corretto-17-x64-windows-jdk.msi). Select "Save File".
 
 * Double-click on the downloaded file and follow the instructions. Leave all options as the default.
 
