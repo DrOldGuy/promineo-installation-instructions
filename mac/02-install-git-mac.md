@@ -1,4 +1,4 @@
-# Install git for Mac OS
+# Install Git for Mac OS
 
 ## Before you start
 Check to see if git is installed. Type:
@@ -22,6 +22,10 @@ If you get a version number back, skip to the Setup section.
 brew install git
 ```
  
+## Reinstalling Git
+
+If homebrew balks at installing Git over a previous installation, you can try this: [https://gist.github.com/brandonsimpson/54d9e085c9fde5e6ad3a](https://gist.github.com/brandonsimpson/54d9e085c9fde5e6ad3a)
+
 ## First-time setup
 * Open a Terminal window.
 * Type this, then press Return: 
