@@ -16,6 +16,15 @@ If you get a version number back, skip to the Setup section.
 ```
 /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
 ```
+
+You may need to add Homebrew to the path:
+
+```
+- Add Homebrew to your PATH in /Users/homefolder/.zprofile:
+    echo 'eval $(/opt/homebrew/bin/brew shellenv)' >> /Users/homefolder/.zprofile
+    eval $(/opt/homebrew/bin/brew shellenv)
+```
+
 * Type this, then press Return:
 
 ```
