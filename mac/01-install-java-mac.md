@@ -4,10 +4,10 @@
 Check to see if Java 11+ is already installed. Type this, then press Return
 
 ```
-java -version
+java --version
 ```
 
-If the Java version is shown, and if it is version 11 or greater, you are all set.
+If the Java version is shown, and if it is version 17, you are all set.
 
 ## Download
 
