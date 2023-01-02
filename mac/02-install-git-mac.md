@@ -7,7 +7,7 @@ Check to see if git is installed. Type:
 git --version
 ```
 
-If you get a version number back, skip to the Setup section.
+If you get a version number back, skip to the Setup section. You may also be prompted to install the Developer Tools. If so, Git will be installed then.
 
 ## Install Homebrew
 * Open a Terminal window.
