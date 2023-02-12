@@ -1,4 +1,4 @@
-# Install Lombok for Windows
+# Install Lombok for MacOS
 
 1. Start Eclipse and click in the (possibly empty?) editor window.
 1. Open the search wizard: Simultaneously press the Cmd key and the 3 key.
