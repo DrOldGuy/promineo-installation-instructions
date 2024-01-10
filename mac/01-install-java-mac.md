@@ -37,7 +37,7 @@ You may get a message that says Amazon Corretto can't be installed on this compu
 
 ### Install Java
 
-1. Open a __new__ Terminal window. Type: **sdk list java**. Note the identifier of the latest version of Amazon Corretto version 17 (something like 21.0.52-amzn). Type **q** to exit sdkman.
+1. Open a __new__ Terminal window. Type: **sdk list java**. Note the identifier of the latest version of Amazon Corretto version 21 (something like 21.0.52-amzn). Type **q** to exit sdkman.
 1. Type **sdk install java {{identifier}}** - so, something like **sdk install java 21.0.12-amzn**.
 1. When the installation is complete, type **java -version** to verify.
 
