@@ -1,7 +1,7 @@
 # Install Java on the Mac
 
 ## Verify
-Check to see if Java 17+ is already installed. Type this, then press Return
+Check to see if Java 21+ is already installed. Type this, then press Return
 
 ```
 java --version
